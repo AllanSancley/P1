@@ -1,0 +1,128 @@
+body {
+    background-color: #3d4141;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* START NAV */
+
+p {
+    padding-left: 70px;
+    padding-right: 350px;  
+    color: #c3cfcf;
+    font-size: x-large;
+    font-family: serif;
+}
+
+nav, ul, li {
+    display: flex inline;
+}
+
+li {
+    padding-right: 40px;
+    margin-left: 50px;
+    color: #c3cfcf;
+}
+ul a li:hover {
+    background-color: #3d4141;
+    text-decoration: none; color: #ad7343;
+}
+ul {
+    padding-right: 50px;
+    margin-top: 25px;
+}
+.img-nav{
+    width: 25px ;
+    padding: 9px;
+    display: block;
+    margin-top: 12px;
+}
+/* END NAV*/
+
+/* START MAIN */
+main {
+    display: inline-flex;
+    margin-top: 70px;
+    margin-left: 70px;
+    text-align: center;
+    text-decoration-color: #c3cfcf;
+}
+.img-1 {
+    width: 400px;
+    height: 468px;
+  background-image: url(../P1/casamento.jpg);
+  background-size: 500px;
+  background-repeat: no-repeat;
+
+}
+.img-2 {
+    width: 400px;
+    height: 468px;
+    background-image: url(../P1/modelo.jpg);
+    background-size: 500px;
+  background-repeat: no-repeat;
+}
+.img-3 {
+    width: 400px;
+    height: 468px;
+    background-image: url(../P1/lifestyle.jpg);
+    background-size: 500px;
+  background-repeat: no-repeat;
+}
+main a {
+    position: relative;
+    background-color: whitesmoke;
+    text-decoration: none; color: #3d4141;
+    top: 230px;
+    font-size: x-large;
+    border: #3d4141 solid 5px;
+    border-radius: 4px;
+}
+main a:hover {
+    background-color: #3d4141;
+    text-decoration: none; color: #ad7343;
+}
+/* END MAIN*/
+
+/* START CONTENT */
+
+.txt1 {
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 380px;
+}
+.txt2 {
+    font-size: 40px;
+    text-align: center;
+    padding-right: 80px;
+}
+
+/* END CONTENT*/
+
+/* START FOOTER*/
+
+footer {
+    margin: 0;
+}
+
+footer .paragraph {
+    text-align: center;
+    margin-left: 310px;
+    display: block;
+    position: relative;
+    top: 0px;
+}
+.img-nav2{
+    width: 25px ;
+    padding-left: 4px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+footer .social {
+    text-align: center;
+    margin: 150px 0 0 30px;
+    display: block;
+    position: relative;
+    top: 25px;
+    
+}
+/* END FOOTER*/
