@@ -1,8 +1,10 @@
 ## Visão geral
+
 - Estes são meus primeiros sites com <i>HTML</i> e <i>CSS</i>, foram feitos para aprimorar-me nestas duas tecnologias
  que são de aprendizado fundamental para quem deseja trablhar no desenvolvimento web de forma profissional.
 
 ### Site-1 (S1)
+
  O primeiro nomeado de <b>Fotografias</b>, foi baseado em um site voltado para profissionais da área da fotografia
  em estilo urbano, estudio ou industrial.
 
