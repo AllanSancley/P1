@@ -1,0 +1,21 @@
+.container {
+    width: 650px;
+    height: 600px;
+    display: grid;
+    grid-template-areas: ;
+}
+.vermelho{
+    background-color: red;
+    width: 320px;
+    height: 600px;
+}
+.verde {
+    background-color: green;
+    width: 320px;
+    height: 280px;
+}
+.azul {
+    background-color: blue;
+    width: 320px;
+    height: 280px;
+}
